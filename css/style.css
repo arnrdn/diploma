@@ -355,6 +355,7 @@
   
   .logo__wrapper {
     display: flex;
+    align-items: center;
     flex-direction: column;
     align-content: center;
     width: 100%;
@@ -752,6 +753,7 @@
   
   .logo__wrapper {
     display: flex;
+    align-items: center;
     flex-direction: column;
     align-content: center;
     width: 100%;
@@ -1159,6 +1161,7 @@
   
   .logo__wrapper {
     display: flex;
+    align-items: center;
     margin-left: 20%;
     margin-bottom: 15%;
   }
