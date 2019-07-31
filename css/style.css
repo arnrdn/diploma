@@ -26,7 +26,7 @@
 @media (max-width: 640px) {
   .header {
     padding: 4% 2% 8%;
-    background: #0f0f31 url("sources/img/football_767.jpg") no-repeat center center;
+    background: #0f0f31 url("https://raw.githubusercontent.com/rdnrn/diploma/master/sources/img/football_767.jpg") no-repeat center center;
     background-size: cover;
   
     position: relative;
@@ -325,7 +325,7 @@
   
   .footer {
     padding: 15% 2% 5%;
-    background: #0f0f31 url("sources/img/game_767.jpg") no-repeat center center;
+    background: #0f0f31 url("https://raw.githubusercontent.com/rdnrn/diploma/master/sources/img/game_767.jpg") no-repeat center center;
     background-size: cover;
   
     position: relative;
@@ -401,7 +401,7 @@
 @media (min-width: 641px) and (max-width: 960px) {
   .header {
     padding: 4% 2% 8%;
-    background: #0f0f31 url("sources/img/football_767.jpg") no-repeat center center;
+    background: #0f0f31 url("https://raw.githubusercontent.com/rdnrn/diploma/master/sources/img/football_767.jpg") no-repeat center center;
     background-size: cover;
   
     position: relative;
@@ -722,7 +722,7 @@
   
   .footer {
     padding: 15% 2% 5%;
-    background: #0f0f31 url("sources/img/game_767.jpg") no-repeat center center;
+    background: #0f0f31 url("https://raw.githubusercontent.com/rdnrn/diploma/master/sources/img/game_767.jpg") no-repeat center center;
     background-size: cover;
   
     position: relative;
@@ -798,7 +798,7 @@
 @media (min-width: 961px) {
   .header {
     padding: 4% 2% 8%;
-    background: #0f0f31 url("sources/img/football_1920.jpg") no-repeat center center;
+    background: #0f0f31 url("https://raw.githubusercontent.com/rdnrn/diploma/master/sources/img/football_1920.jpg") no-repeat center center;
     background-size: cover;
   
     position: relative;
@@ -1128,7 +1128,7 @@
   
   .footer {
     padding: 15% 2% 5%;
-    background: #0f0f31 url("sources/img/game_1920.jpg") no-repeat center center;
+    background: #0f0f31 url("https://raw.githubusercontent.com/rdnrn/diploma/master/sources/img/game_1920.jpg") no-repeat center center;
     background-size: cover;
   
     position: relative;
