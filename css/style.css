@@ -784,11 +784,10 @@
     color: white;
     font-size: 5rem;
     font-family: "Open Sans Bold", Arial, sans-serif;
-    display: flex;
-    flex-wrap: wrap;
   }
   
   .footer__title_ {
+    display: block;
     color: #a496ca;
     font-size: 2.25rem;
     font-family: "Open Sans Regular", Arial, sans-serif;
