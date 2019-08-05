@@ -406,6 +406,11 @@
 @media (min-width: 641px) and (max-width: 960px), (orientation: landscape) {
   .title {
     font-size: 3rem;
+    padding-left: 17%;
+  }
+  
+  .post__container2 {
+    margin-left: 17%;
   }
 }
   
