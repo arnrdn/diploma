@@ -159,7 +159,7 @@
   .section__title {
     text-transform: uppercase;
     color: #e7e7e7;
-    font-size: 4.5rem;
+    font-size: 3.125rem;
     font-family: "Open Sans Bold", Arial, sans-serif;
   }
   
@@ -216,7 +216,7 @@
   
   .article__title {
     display: flex;
-    font-size: 2rem;
+    font-size: 1.4375rem;
     text-transform: uppercase;
     color: #c1c1c1;
     font-family: "Open Sans Bold", Arial, sans-serif;
